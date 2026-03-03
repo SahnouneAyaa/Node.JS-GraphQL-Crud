@@ -9,7 +9,6 @@ The project demonstrates CRUD operations, helping students understand:
 - Integrating Node.js with MongoDB using Mongoose  
 - Best practices for API design with GraphQL
 
-This project reflects both my backend learning journey and my experience teaching students modern GraphQL API development.
 
 ## Tech Stack
 
